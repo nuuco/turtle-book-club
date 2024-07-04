@@ -35,3 +35,5 @@
 ## ✍️ 기록
 
 <a href="book/01_기적의말투99.md" target="_blank">01. 기적의 말투 99</a>
+<br/>
+<a href="book/02_종이 동물원.md" target="_blank">02. 종이 동물원</a>
