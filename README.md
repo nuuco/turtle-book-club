@@ -35,6 +35,8 @@
 
 ## ✍️ 기록
 
-<a href="book/01_기적의말투99.md" target="_blank">01. 기적의 말투 99</a>
+<a href="book/01_기적의 말투 99.md" target="_blank">01. 기적의 말투 99</a>
 <br/>
 <a href="book/02_종이 동물원.md" target="_blank">02. 종이 동물원</a>
+<br/>
+<a href="book/03_계절은 짧고 기억은 영영.md" target="_blank">03. 계절은 짧고 기억은 영영</a>
